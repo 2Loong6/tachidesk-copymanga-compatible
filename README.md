@@ -6,6 +6,7 @@
 
 ```
     $ git clone https://github.com/2Loong6/tachidesk-copymanga-compatible.git
+    $ cd tachidesk-copymanga-compatible
     $ docker build  -t tachidesk-copymanga-compatible .
 ```
 
